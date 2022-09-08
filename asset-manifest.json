@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-reducer-counter/static/css/main.2b6cb9c3.css",
+    "main.js": "/react-reducer-counter/static/js/main.3654eccd.js",
+    "index.html": "/react-reducer-counter/index.html",
+    "main.2b6cb9c3.css.map": "/react-reducer-counter/static/css/main.2b6cb9c3.css.map",
+    "main.3654eccd.js.map": "/react-reducer-counter/static/js/main.3654eccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6cb9c3.css",
+    "static/js/main.3654eccd.js"
+  ]
+}
